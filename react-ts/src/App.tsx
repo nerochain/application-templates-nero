@@ -34,7 +34,7 @@ const App: React.FC = () => {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1>Nerochain dApp with Account Abstraction</h1>
+        <h1>NERO Chain dApp with Account Abstraction</h1>
       </header>
       
       <main className="app-main">
