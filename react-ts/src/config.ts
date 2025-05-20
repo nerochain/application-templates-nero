@@ -11,7 +11,7 @@ export const NERO_CHAIN_CONFIG = {
 
 // Account Abstraction Platform configuration
 export const AA_PLATFORM_CONFIG = {
-  bundlerRpc: process.env.REACT_APP_BUNDLER_URL || "https://bundler.service.nerochain.io",
+  bundlerRpc: process.env.REACT_APP_BUNDLER_URL || "https://bundler-testnet.nerochain.io",
   paymasterRpc: process.env.REACT_APP_PAYMASTER_URL || "https://paymaster-testnet.nerochain.io",
 };
 
